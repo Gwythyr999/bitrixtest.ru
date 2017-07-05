@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BitrixTest.ru.iml" filepath="$PROJECT_DIR$/.idea/BitrixTest.ru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bitrix.intervolga.ru/.idea/bitrix.intervolga.ru.iml" filepath="$PROJECT_DIR$/../bitrix.intervolga.ru/.idea/bitrix.intervolga.ru.iml" />
+    </modules>
+  </component>
+</project>
